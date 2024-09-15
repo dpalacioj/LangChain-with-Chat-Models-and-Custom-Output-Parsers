@@ -1,0 +1,6 @@
+langchain
+openai
+# ipykernel # It isn't necessary to include in the requirements because when the app is deployed, you dont need it
+python-dotenv
+huggingface_hub
+streamlit
